@@ -33,7 +33,7 @@ spring:
 mybatis:
   configuration:
     cache-enabled: true
-  type-aliases-package: com.sxt.cloud.entity
+  type-aliases-package: com.fan.cloud.entity
 
 eureka:
   client:
@@ -80,7 +80,7 @@ spring:
 mybatis:
   configuration:
     cache-enabled: true
-  type-aliases-package: com.sxt.cloud.entity
+  type-aliases-package: com.fan.cloud.entity
 
 eureka:
   client:
